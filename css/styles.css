@@ -22,14 +22,6 @@ hr {
   border-width: medium;
 }
 
-a {
-  text-decoration: none;
-}
-
-a:hover {
-  color: white;
-}
-
 .c1 {
   position: absolute;
   top: -460px;
@@ -112,17 +104,4 @@ a:hover {
 .likes,
 .photos {
   margin: 15px 25px;
-}
-
-.attribution {
-  position: absolute;
-  bottom: 1rem;
-  left: 38rem;
-  text-align: center;
-  font-size: 0.9em;
-  text-indent: 5px;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
